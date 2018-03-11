@@ -1,4 +1,4 @@
-# Codeblocks
+# Codeblocks - for study purpose
 
 Created in 2016 for project.
 
