@@ -1,6 +1,8 @@
-# Codeblocks-Geometry
+# Codeblocks
 
 Created in 2016 for project.
+
+Shader, Shape, Transformation.
 
 Shape include:
 - Line
